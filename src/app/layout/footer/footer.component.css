@@ -1,0 +1,16 @@
+footer {
+    height: 130px;
+    padding: 15px;
+    background-color: hsl(180, 13%, 89%);
+    margin-top: 85vh; 
+
+}
+.site-logo {
+    font-size: 1.2em;
+}
+
+.p {
+    text-align: center;
+}
+
+

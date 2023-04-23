@@ -1,0 +1,23 @@
+header{
+    height: 100px;
+    margin-top: 5px;
+   
+}
+
+.site-logo{
+    /* padding: 5PX 20PX;
+    border-radius: 20PX;
+    background-color: rgb(62, 231, 175);
+    color:darkcyan; */
+    font-size: 1.5em;
+}
+
+
+nav{
+    margin-top: 100px;
+    height: 50px;
+    background-color: rgb(203, 229, 229);
+}
+.nav-link{
+    text-transform: uppercase;
+}
